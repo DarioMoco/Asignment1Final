@@ -1,0 +1,5 @@
+<h1 style="font-family:Algerian; "><em><a href="page2.html">Interest in IT:<a href="page2.html">    Ideal Job:</a></a></em></h1>
+			  <h1 style="font-family:Algerian; "><em><a href="page2.html">Ideal Job:</a></em></h1>
+              <h1 style="font-family:Algerian; "><em><a href="page2.html">Personal Profile:</a></em></h1>
+			  <h1 style="font-family:Algerian; "><em><a href="page2.html">Project idea</a></em></h1>
+			  </h1>
